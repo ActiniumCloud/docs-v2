@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# "Verified" Discord Role
+# Verified Discord Role
 This page goes over how to get the "Verified" role in the ActiniumCloud Discord server, allowing you to use the advertisements channel among other things.
 
 ## Step One - Logging in to the myGame Panel
