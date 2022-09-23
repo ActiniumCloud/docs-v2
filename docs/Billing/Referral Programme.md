@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Referral Programme
 
-:::note
+:::caution
 
 This page is not fully finished and is awaiting data. If you see this notice in Production, please report it to ActiniumCloud Staff.
 
