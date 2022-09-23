@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Refferal Programme
+# Referral Programme
 
 :::note
 
