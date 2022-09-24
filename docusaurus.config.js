@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ActiniumCloud Docs',
   tagline: 'All you need to know to get up and running with ActiniumCloud!',
-  url: 'https://docs-v2-mu.vercel.app/',
+  url: 'https://docs-beta.actiniumcloud.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -79,7 +79,11 @@ const config = {
             items: [
               {
                 label: 'Billing',
-                to: '/docs/intro',
+                to: '/docs/category/billing',
+              },
+              {
+                label: 'General',
+                to: '/docs/category/General',
               },
             ],
           },
@@ -100,11 +104,7 @@ const config = {
             title: 'Other',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
+                label: 'ActiniumCloud GitHub',
                 href: 'https://github.com/ActiniumCloud',
               },
             ],
