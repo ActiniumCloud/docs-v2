@@ -4,6 +4,14 @@ sidebar_position: 1
 
 # Branding
 
+All our branding assets and other information for when you're using the ActiniumCloud brand!
+
+:::caution
+
+This page is not fully finished and is still awaiting data. If you see this caution in Production, please inform ActiniumCloud Staff.
+
+:::
+
 ## The ActiniumCloud "Two Cloud" logo
 Use this logo for things like favicons or in places where we are already an established name and you don't need context.
 
