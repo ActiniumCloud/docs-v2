@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ActiniumCloud Docs',
+  title: 'ActiniumCloud Docsᴮᴱᵀᴬ',
   tagline: 'All you need to know to get up and running with ActiniumCloud!',
   url: 'https://docs-beta.actiniumcloud.com/',
   baseUrl: '/',
@@ -51,7 +51,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'ActiniumCloud Docs',
+        title: 'ActiniumCloud Docsᴮᴱᵀᴬ',
         logo: {
           alt: 'The ActiniumCloud Logo',
           src: 'img/main-logo.png',
