@@ -3,9 +3,9 @@ The new and improved ActiniumCloud Documentation! Built on Docusaurus v2 and dep
 
 ## Contributing
 
-Contributions are welcomed and sincerely appreciated! No matter how much or how little you contribute we're greatful for your help.
+Contributions are welcomed and sincerely appreciated! No matter how much or how little you contribute we're grateful for your help.
 
-That said, we have a few guidelines:
+That said, we have a few guidelines for Contributions:
 - All pages should be in Markdown (.md files) unless they *have* to use a different format
 - All pages should be written in **British English**, we understand that some customers may prefer American English however we prefer to keep it consistent
 - No conflicts of interest - For example, links to other cloud hosts documentation
@@ -20,6 +20,6 @@ This should be as easy as forking the repository and deploying it (on Vercel at 
 
 Support will not be provided for installing and working on this repository although small bits of help may be provided on request.
 
-As always, if you need help, please use the [Support Centre](https://actiniumcloud.com/customer-support) to contact us directly
+As always, if you need help, please use the [Support Centre](https://actiniumcloud.com/customer-support) to contact us directly.
 
 Thanks for choosing ActiniumCloud!
