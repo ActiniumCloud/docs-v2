@@ -14,4 +14,4 @@ When someone uses your Referral Code to sign up, you will get 20% of all of thei
 
 ## What are the requirements?
 
-We don't require much regarding your Referral URLs. Although we do ask that you make it obvious that the link is a Referral URL. For example, if the URL was used in a hyperlink you could add a notice before or after it warning the reader that it is a Referral URL. Failure to do this may result in removal of your privilege to have a Referral URL 
+We don't require much regarding your Referral URLs. Although we do ask that you make it obvious that the link is a Referral URL. For example, if the URL was used in a hyperlink you could add a notice before or after it warning the reader that it is a Referral URL. Failure to do this may result in removal of your privilege to have a Referral URL.
