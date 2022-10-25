@@ -1,8 +1,8 @@
 {
-  "label": "Billing",
+  "label": "Cloud",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "All you need to know regarding billing on ActiniumCloud!"
+    "description": "cloud"
   }
 }
