@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome to the ActiniumCloud Docs!
+# Welcome!
 
 Now rebuilt on Docusaurus v2! This site is still undergoing development and is not completely finished, changes may be made in the future including the addition or modification of articles.
 
