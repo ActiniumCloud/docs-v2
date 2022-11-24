@@ -12,7 +12,7 @@ Use this logo for things like favicons or in places where we are already an esta
 
 ![The "Two Cloud" logo](img/branding/actiniumcloud-logo-main-256.png)
 
-Higher resolution version available [here](img/branding/actiniumcloud-logo-main.png")
+Higher resolution version available [here](img/branding/actiniumcloud-logo-main.png)
 
 ## The "Actinium Blue" colour
 
