@@ -10,9 +10,9 @@ All our branding assets and other information for when you're using the Actinium
 
 Use this logo for things like favicons or in places where we are already an established name and you don't need context.
 
-![The "Two Cloud" logo](/img/branding/main-logo-256.png)
+![The "Two Cloud" logo](img/branding/actiniumcloud-logo-main-256.png)
 
-Higher resolution version available [here](/img/branding/main-logo.png)
+Higher resolution version available [here](img/branding/actiniumcloud-logo-main.png")
 
 ## The "Actinium Blue" colour
 
