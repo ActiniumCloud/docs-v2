@@ -1,4 +1,4 @@
-# Modpack server issues
+# Common Modpack Issues
 
 ## Why can't I upload a modpack that I can play locally?
 

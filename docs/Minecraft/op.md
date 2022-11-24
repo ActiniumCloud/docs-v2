@@ -1,4 +1,4 @@
-# How to give players op?
+# How to give players OP?
 
 |  Tutorial details |           |
 |:-----------------:|:---------:|

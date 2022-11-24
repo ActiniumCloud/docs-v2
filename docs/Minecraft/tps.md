@@ -1,4 +1,4 @@
-# How to check for tps?
+# How do I check my servers TPS?
 
 |  Tutorial details |           |
 |:-----------------:|:---------:|
