@@ -2,4 +2,4 @@
 
 This is usually because the server crashed. You can view the crash log in the console.
 
-You can visit our `troubleshooting` section.
+Visit our `troubleshooting` section for help on your error.

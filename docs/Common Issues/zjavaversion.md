@@ -1,4 +1,4 @@
-# How to change Java version?
+# How do I change my servers Java version?
 
 |  Tutorial details |           |
 |:-----------------:|:---------:|
