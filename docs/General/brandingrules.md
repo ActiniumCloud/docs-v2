@@ -9,7 +9,7 @@ In order to protect our brand, we have brand rules to ensure our branding is not
 
 ## Rules
 
-For reference, "branding assets" refers to everything [on our branding page](./branding.md) and the "ActiniumCloud" or "Actinium" names.
+For reference, "branding assets" refers to everything [on our branding page](./branding) and the "ActiniumCloud" or "Actinium" names.
 
 - You cannot use our branding assets comercially without our explicit permission
 - You cannot make it appear as if we are endorsing your project unless we explicitly allow you to
