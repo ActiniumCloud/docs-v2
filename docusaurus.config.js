@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ActiniumCloud Docsᴮᴱᵀᴬ',
+  title: 'ActiniumCloud Docs',
   tagline: 'All you need to know to get up and running with ActiniumCloud!',
-  url: 'https://docs-beta.actiniumcloud.com/',
+  url: 'https://docs.actiniumcloud.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -23,8 +23,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'en-GB',
+    locales: ['en-GB'],
   },
 
   presets: [
@@ -51,7 +51,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'ActiniumCloud Docsᴮᴱᵀᴬ',
+        title: 'ActiniumCloud Docs',
         logo: {
           alt: 'The ActiniumCloud Logo',
           src: 'img/main-logo.png',
@@ -77,12 +77,16 @@ const config = {
             title: 'Categories',
             items: [
               {
-                label: 'Billing',
-                to: '/docs/category/billing',
+                label: 'Common Issues',
+                to: '/docs/category/common-issues',
               },
               {
                 label: 'General',
                 to: '/docs/category/General',
+              },
+              {
+                label: 'Billing',
+                to: '/docs/category/billing',
               },
             ],
           },
@@ -97,6 +101,10 @@ const config = {
                 label: 'Open a myGame Panel Ticket',
                 href: 'https://my.actiniumcloud.com/ticket',
               },
+              {
+                label: 'abuse@actinium.cloud',
+                href: 'mailto:abuse@actinium.cloud',
+              },
             ],
           },
           {
@@ -105,6 +113,10 @@ const config = {
               {
                 label: 'ActiniumCloud GitHub',
                 href: 'https://github.com/ActiniumCloud',
+              },
+              {
+                label: 'Support Centre',
+                href: 'https://actiniumcloud.com/customer-support',
               },
             ],
           },

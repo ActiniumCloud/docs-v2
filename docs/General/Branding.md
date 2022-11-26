@@ -6,7 +6,11 @@ sidebar_position: 1
 
 All our branding assets and other information for when you're using the ActiniumCloud brand!
 
-Unsure about whether or not you can use the ActiniumCloud brand? Feel free to [reach out to us](../intro.md#getting-additional-help)!
+:::danger Branding Rules
+
+In order to use the ActiniunCloud brand, you must follow our branding rules. These apply to all assets here, as well as the "ActiniumCloud" and "Actinium" names. You can find our branding rules [here](./brandingrules.md).
+
+:::
 
 ## The ActiniumCloud "Two Cloud" logo
 
@@ -14,7 +18,7 @@ Use this logo for things like favicons or in places where we are already an esta
 
 ![The "Two Cloud" logo](/img/main-logo-256.png)
 
-Higher resolution version available [here](/img/main-logo.png)
+Higher resolution version available for use [here](/img/main-logo.png).
 
 ## The "Actinium Blue" colour
 
